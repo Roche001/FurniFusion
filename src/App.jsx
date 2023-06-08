@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Top from "./components/top/Top";
 import Log from "./components/log/Log";
 import Register from "./components/register/Register";
