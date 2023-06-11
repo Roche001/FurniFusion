@@ -25,7 +25,7 @@
 }
 .footer-detail {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   width: 80vw;
   margin-top: 1.2rem;
