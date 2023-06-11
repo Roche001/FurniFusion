@@ -138,10 +138,16 @@ input {
     width: 80vw;
     margin-top: 0.5rem;
   }
-  .news {
-    width: 95%;
-  }
+
   input {
-    width: 70%;
+    width: 60%;
+  }
+  .news {
+    width: 100%;
+  }
+}
+@media screen (min-width: 6001px) and (max-width: 1100px) {
+  .footer-detail {
+    width: 20vw;
   }
 }
