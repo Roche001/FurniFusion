@@ -146,8 +146,5 @@ input {
     width: 100%;
   }
 }
-@media screen (min-width: 6001px) and (max-width: 1100px) {
-  .footer-detail {
-    width: 20vw;
-  }
+@media screen and (min-width: 6001px) and (max-width: 1100px) {
 }
