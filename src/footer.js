@@ -1,12 +1,10 @@
-import { MdEmail } from "react-icons/md";
-import { SiFacebook } from "react-icons/si";
-import { BsFillTelephoneFill } from "react-icons/bs";
-import { AiFillTwitterCircle } from "react-icons/ai";
+import { FaFacebookF } from "react-icons/fa";
+import { ImTwitter } from "react-icons/im";
 import { RiInstagramFill } from "react-icons/ri";
+import { ImPinterest } from "react-icons/im";
 export const foot = [
-  { title: <MdEmail />, titleDes: "furnifusion@gmail.com" },
-  { title: <SiFacebook />, titleDes: "FurniFusion" },
-  { title: <BsFillTelephoneFill />, titleDes: "+1 467-331-0192" },
-  { title: <AiFillTwitterCircle />, titleDes: "@furnifusion" },
-  { title: <RiInstagramFill />, titleDes: "furnifusion" },
+  { title: <FaFacebookF />, titleDes: "https://web.facebook.com/?_rdc=1&_rdr" },
+  { title: <ImTwitter />, titleDes: "https://twitter.com/" },
+  { title: <RiInstagramFill />, titleDes: "https://www.instagram.com/" },
+  { title: <ImPinterest />, titleDes: "https://www.pinterest.com/" },
 ];

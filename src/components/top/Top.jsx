@@ -16,7 +16,7 @@ const Top = () => {
     <div className="navbar">
       <div className="logo">
         <Link to="/">
-          <img src="././assets/som.png" alt="logo" loading="lazy" />
+          <img src="././assets/som1.png" alt="logo" loading="lazy" />
         </Link>
       </div>
 
