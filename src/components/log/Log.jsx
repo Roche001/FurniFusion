@@ -89,13 +89,12 @@ const Log = () => {
             />{" "}
             Remember me
           </label>
-          <h4>
+          <h5>
             Don't have an account?{" "}
-            <Link to="/Register">
-              {" "}
+            <Link to="/Register" id="decoration">
               <span>Register Here</span>
             </Link>
-          </h4>
+          </h5>
         </form>
       </div>
     </div>

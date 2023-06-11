@@ -1,9 +1,9 @@
 export const bar = [
-  { title: "Login", titleLink: "/" },
+  { title: "Home", titleLink: "/" },
   { title: "Register", titleLink: "/Register" },
-  { title: "Home", titleLink: "/Home" },
+  { title: "Login", titleLink: "/Log" },
   { title: "Our Products", titleLink: "/Product" },
   { title: "Buy", titleLink: "/Buy" },
   { title: "Search Products", titleLink: "/Search" },
-  { title: "MyCart", titleLink: "/Cart" },
+  { title: "MyCart", titleLink: "/MyCart" },
 ];
