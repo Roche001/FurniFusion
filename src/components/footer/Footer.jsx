@@ -55,12 +55,14 @@ const Footer = () => {
         <div className="footer-news">
           <h4>Newsletter</h4>
           <p>
-            You can unsubscribe from our newsletter at any time by clicking the
-            'unsubscribe' link at the bottom of any email you receive from us.
+            We respect your privacy and want to make it easy for you to control
+            your email preferences. You can unsubscribe from our newsletter at
+            any time by clicking the 'unsubscribe' link at the bottom of any
+            email you receive from us.
           </p>
           <div className="news">
             <input type="text" placeholder="Your email address" />
-            <button className="footer-button">SUBSCRIBE</button>
+            <button className="footer-button">SUBSCRIBE </button>
           </div>
         </div>
       </div>
