@@ -7,7 +7,7 @@ const Home = () => {
       <div className="home-banner">
         {" "}
         <h2>Royal Living</h2>
-        <p>Quality Furniture Delivered to Your Doorstep!</p>
+        <p>Designing Spaces, Inspiring Lives.</p>
       </div>
       <div className="home-cat"></div>
     </div>

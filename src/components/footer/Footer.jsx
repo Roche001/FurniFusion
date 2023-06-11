@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { Link } from "react-router-dom";
 import { TbCopyright } from "react-icons/tb";
-import { foot } from "../../footer";
+import { foot, contact, support, about } from "../../footer";
 
 const Footer = () => {
   return (
@@ -16,6 +16,53 @@ const Footer = () => {
           to transform your space into a haven of comfort and elegance. Discover
           timeless designs and exceptional craftsmanship today.
         </p>
+      </div>
+      <div className="footer-detail">
+        <div className="footer-contact">
+          <h4>Contact us</h4>
+          {contact.map((item, index) => {
+            return (
+              <div key={index} className="contact-one">
+                <h6>{item.title}</h6>
+              </div>
+            );
+          })}
+        </div>
+        <div className="footer-support">
+          <h4>Support</h4>
+          {support.map((item, index) => {
+            return (
+              <div key={index} className="support-one">
+                <Link to={item.titleLink} id="about">
+                  <h6>{item.title}</h6>
+                </Link>
+              </div>
+            );
+          })}
+        </div>
+        <div className="footer-us">
+          <h4>About Us</h4>{" "}
+          {about.map((item, index) => {
+            return (
+              <div key={index} className="about-one">
+                <Link to={item.titleLink} id="about">
+                  <h6>{item.title}</h6>
+                </Link>
+              </div>
+            );
+          })}
+        </div>
+        <div className="footer-news">
+          <h4>Newsletter</h4>
+          <p>
+            You can unsubscribe from our newsletter at any time by clicking the
+            'unsubscribe' link at the bottom of any email you receive from us.
+          </p>
+          <div className="news">
+            <input type="text" placeholder="Your email address" />
+            <button className="footer-button">SUBSCRIBE</button>
+          </div>
+        </div>
       </div>
       <div className="footer-socials">
         <div className="socials-one">
