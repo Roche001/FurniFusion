@@ -11,7 +11,10 @@
 }
 
 body {
-  background: #ffffffff;
+  background: url("images/footer.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: auto;
   font-family: "Signika Negative", sans-serif;
   color: #000000;
 }
