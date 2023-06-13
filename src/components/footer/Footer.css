@@ -1,9 +1,9 @@
 .footer-container {
-  background: url("../../images/footer.jpg");
+  background: #b23521;
   background-repeat: repeat;
   background-position: center;
   background-size: auto;
-  color: #000000;
+  color: #ffffff;
 }
 .footer-about {
   display: flex;
@@ -20,7 +20,6 @@
   font-family: "Signika Negative", sans-serif;
 }
 .footer-about p {
-  color: #424242;
   margin-top: 1rem;
 }
 .footer-detail {
@@ -35,28 +34,26 @@
 .footer-contact {
   flex: 3;
 }
-.footer-contact h6 {
-  color: #000000;
-}
+
 .footer-support {
   flex: 2;
 }
 .footer-support h6 {
-  color: #000000;
+  color: #ffffff;
   transition: 100ms ease-in-out;
 }
 .footer-support h6:hover {
-  color: #b23521;
+  color: #000000;
 }
 .footer-us {
   flex: 2;
 }
 .footer-us h6 {
-  color: #000000;
+  color: #ffffff;
   transition: 100ms ease-in-out;
 }
 .footer-us h6:hover {
-  color: #b23521;
+  color: #000000;
 }
 .footer-news {
   display: flex;
@@ -66,29 +63,31 @@
   justify-content: center;
 }
 .footer-news p {
-  color: #616161;
+  color: #ffffff;
 }
 .news {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: #000000 1px solid;
+  border: #ffffff 1px solid;
   height: 3rem;
   width: 23rem;
   border-radius: 0.3rem;
 }
 input {
-  height: 2.8rem;
   padding: 0.5rem;
-  width: 16rem;
+  width: 70%;
+  height: 100%;
 }
 .footer-button {
   margin-left: 0.5rem;
   background: transparent;
   font-weight: 700;
+  width: 30%;
+  color: #ffffff;
 }
 .footer-button:hover {
-  color: #b23521;
+  color: #000000;
 }
 .footer-socials {
   display: flex;
