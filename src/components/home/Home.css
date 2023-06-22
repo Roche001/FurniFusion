@@ -1,6 +1,6 @@
 .home-banner {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), #b23521),
-    url("../../images/Armchair.png");
+  background: #b23521;
+
   height: 60vh;
   background-repeat: repeat;
   background-position: center;
