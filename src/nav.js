@@ -6,4 +6,12 @@ export const bar = [
   { title: "Buy", titleLink: "/Buy" },
   { title: "Search Products", titleLink: "/Search" },
   { title: "MyCart", titleLink: "/MyCart" },
+  { title: "New Arrivals", titleLink: "/NewArrivals" },
+  { title: "Sales/Clearance", titleLink: "/Sales/Clearance" },
+  { title: "Living Room", titleLink: "/Livingroom" },
+  { title: "Dining Room", titleLink: "/DiningRoom" },
+  { title: "Bedroom", titleLink: "/Bedroom" },
+  { title: "Home Office", titleLink: "/Homeoffice" },
+  { title: "Outdoor", titleLink: "/Outdoor" },
+  { title: "Customization", titleLink: "/Customization" },
 ];
