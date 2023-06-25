@@ -24,9 +24,9 @@
   margin-top: 1rem;
 }
 .footer-detail {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
   width: 80vw;
   margin-top: 1.2rem;
   margin-left: auto;
