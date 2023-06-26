@@ -27,11 +27,11 @@ const Top = () => {
       </div>
       <div className={menuOpen ? "menu-items-one" : "menu-items"}>
         <div className="side-bar">
-          {bar.map((bar, index) => {
+          {bar.map((item, index) => {
             return (
               <div key={index} className="menu-one">
-                <Link to={bar.titleLink} id="menu-two" onClick={handleClick}>
-                  <h5>{bar.title}</h5>
+                <Link to={item.titleLink} id="menu-two" onClick={handleClick}>
+                  <h5>{item.title}</h5>
                 </Link>
               </div>
             );
