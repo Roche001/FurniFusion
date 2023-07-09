@@ -6,7 +6,9 @@ const Home = () => {
   return (
     <div className="home-container">
       <div className="home-banner">
-        <h2>Welcome to Sycamore Designs</h2>
+        <h2>
+          Welcome to <span>Sycamore Designs</span>
+        </h2>
         <p>
           Unlock the potential of your space with our innovative furniture
           designs.
@@ -19,6 +21,7 @@ const Home = () => {
           </h4>
         </div>
       </div>
+      <div className="home-category"></div>
     </div>
   );
 };
