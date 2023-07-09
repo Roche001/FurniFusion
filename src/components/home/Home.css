@@ -27,26 +27,17 @@
 .home-input {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   height: 3rem;
-  width: 50vw;
+  width: 40vw;
   border-radius: 0.5rem;
   background: #ffffff;
+  padding-left: 0.5rem;
+  padding-right: 2rem;
 }
-input {
-  height: 100%;
-  width: 95%;
-}
-.home-search {
-  width: 5%;
-  height: 3rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-.home-search h4 {
+.home-input h4 {
   color: #000000;
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 900;
+  cursor: pointer;
 }

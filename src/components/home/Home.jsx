@@ -13,12 +13,10 @@ const Home = () => {
         </p>
         <div className="home-input">
           <input type="text" placeholder="Search for a product" />
-          <div className="home-search">
-            {" "}
-            <h4>
-              <BsSearch />
-            </h4>
-          </div>
+
+          <h4>
+            <BsSearch />
+          </h4>
         </div>
       </div>
     </div>
