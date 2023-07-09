@@ -50,6 +50,7 @@
 @media screen and (max-width: 600px) {
   .home-banner {
     text-align: center;
+    height: 70dvh;
   }
   .home-input {
     width: 95dvw;
