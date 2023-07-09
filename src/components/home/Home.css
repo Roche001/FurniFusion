@@ -41,3 +41,16 @@
   font-weight: 900;
   cursor: pointer;
 }
+@media screen and (max-width: 600px) {
+  .home-banner {
+    text-align: center;
+  }
+  .home-input {
+    width: 95vw;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  .home-input {
+    width: 75vw;
+  }
+}
