@@ -46,7 +46,7 @@
   transition: 100ms ease-in-out;
 }
 .footer-support h6:hover {
-  color: #000000;
+  color: #797979;
 }
 .footer-us {
   flex: 2;
@@ -56,7 +56,7 @@
   transition: 100ms ease-in-out;
 }
 .footer-us h6:hover {
-  color: #000000;
+  color: #797979;
 }
 .footer-news {
   display: flex;
