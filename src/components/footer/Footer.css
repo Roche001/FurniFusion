@@ -90,7 +90,7 @@ input {
   color: #ffffff;
 }
 .footer-button:hover {
-  color: #000000;
+  color: #797979;
 }
 .footer-socials {
   display: flex;
@@ -125,11 +125,11 @@ input {
 }
 
 .media h6 {
-  color: #b23521;
+  color: #ffffff;
   margin-top: 0.2rem;
 }
 .media h6:hover {
-  color: #ffffff;
+  color: #b23521;
 }
 .footer-contact h4,
 .footer-support h4,
