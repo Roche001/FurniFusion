@@ -21,7 +21,10 @@ const Home = () => {
           </h4>
         </div>
       </div>
-      <div className="home-category"></div>
+      <div className="home-category">
+        <h3>Shop by Category</h3>
+        <div className="home-cat"></div>
+      </div>
     </div>
   );
 };
