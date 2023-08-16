@@ -19,7 +19,7 @@
 }
 .footer-about h3 {
   font-family: "Lobster", cursive;
-  color: #000000;
+  color: #797979;
   font-weight: 600;
 }
 .footer-about p {
@@ -135,7 +135,7 @@ input {
 .footer-support h4,
 .footer-us h4,
 .footer-news h4 {
-  color: #000000;
+  color: #797979;
   font-weight: 600;
   font-size: 1.2rem;
 }
