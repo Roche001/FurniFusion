@@ -51,7 +51,7 @@ export const ship = [
     sub: "By using our Website, you agree to abide by these Terms and Conditions. If you have any questions or concerns, please contact us at [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758].",
   },
 ];
-export const policy = [
+export const pol = [
   {
     title: "1. Information We Collect:",
     sub: "a. Personal Information: We may collect personal information such as your name, email address, phone number, billing and shipping addresses, and payment information when you place an order or create an account on our website.",
@@ -92,6 +92,6 @@ export const policy = [
   },
   {
     title: "9. Contact Us:",
-    sub: "If you have any questions or concerns about this Privacy Policy, please contact us at [contact email/phone number].",
+    sub: "If you have any questions or concerns about this Privacy Policy, please contact us at [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758]..",
   },
 ];
