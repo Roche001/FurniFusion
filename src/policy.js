@@ -95,3 +95,53 @@ export const pol = [
     sub: "If you have any questions or concerns about this Privacy Policy, please contact us at [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758]..",
   },
 ];
+export const faq = [
+  {
+    title: "1. How can I place an order?",
+    sub: "To place an order, simply browse our collection and add your desired items to your cart. Once you're ready, proceed to checkout, where you can review your order, enter your shipping and payment details, and confirm your purchase.",
+  },
+  {
+    title: "2. What payment methods do you accept?",
+    sub: "We accept major credit and debit cards, as well as PayPal for secure online payments.",
+  },
+  {
+    title: "3. Do you offer customization options for your furniture?",
+    sub: "Yes, we offer customization options for some of our furniture pieces. Look for items labeled as 'Customizable' or 'Made to Order' on our website. You can often choose different colors, materials, or dimensions to suit your preferences.",
+  },
+  {
+    title: "4. How do I track my order?",
+    sub: "After your order is processed and shipped, you will receive a shipping confirmation email with a tracking number. You can use this number to track the status of your delivery.",
+  },
+  {
+    title: "5. What is your return policy?",
+    sub: "Please refer to our Returns Policy for detailed information on our return process, eligibility criteria, and how to initiate a return.",
+  },
+  {
+    title: "6. How does shipping work?",
+    sub: "We offer standard shipping for most orders. Shipping times and costs vary based on your location and the size of the item. You can find more information on our Shipping Policy page.",
+  },
+  {
+    title: "7. Do you offer assembly services?",
+    sub: "Some of our furniture items may come with assembly options or services available for an additional fee. Check the product description for details or contact our customer support for assistance.",
+  },
+  {
+    title: "8. Can I cancel or change my order after it's placed?",
+    sub: "We strive to process orders quickly, so if you need to cancel or modify your order, please contact us as soon as possible. Changes may not be possible if the order has already been shipped.",
+  },
+  {
+    title: "9. Do you offer warranties on your furniture?",
+    sub: "Yes, many of our items come with manufacturer warranties. Warranty details can often be found in the product descriptions. If you have questions about a specific item's warranty, please contact our customer support.",
+  },
+  {
+    title: "10. How can I contact customer support?",
+    sub: "You can reach our customer support team by [email/phone/live chat] during our business hours. Visit the Contact Us page for more details.",
+  },
+  {
+    title: "1. Are your products environmentally friendly?",
+    sub: "We prioritize sustainability and source materials responsibly whenever possible. Look for products labeled as 'eco-friendly' or 'sustainable' for more information on environmentally conscious choices.",
+  },
+  {
+    title: "12. Can I request fabric swatches before making a purchase?",
+    sub: "Yes, we offer fabric swatches for many of our upholstery items. Look for the option to request swatches on the product page or contact our customer support to inquire.",
+  },
+];
