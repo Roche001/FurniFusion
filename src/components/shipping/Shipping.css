@@ -37,6 +37,6 @@
   color: #000000;
   font-weight: 800;
 }
-ol.order-two {
-  list-style-type: disc;
+ol.a {
+  list-style-type: circle;
 }

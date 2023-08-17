@@ -53,16 +53,62 @@ const Shipping = () => {
           </li>
           <li>
             <span>2.Return Process:</span>
-            <ol className="order-two">
+            <ol className="a">
               <li>
-                Contact our customer support team to initiate a return request.
-                Provide your order number and details about the items you wish
-                to return.
+                (a) Contact our customer support team to initiate a return
+                request. Provide your order number and details about the items
+                you wish to return.
+              </li>
+              <li>
+                (b) Our team will provide you with a return authorization and
+                instructions on how to proceed.
+              </li>
+              <li>
+                (c) Pack the items securely in the original packaging, including
+                all accessories and documentation. Clearly mark the return
+                authorization on the package.
+              </li>
+              <li>
+                Ship the package to the provided return address using a
+                trackable shipping method. Return shipping costs are the
+                responsibility of the customer.
               </li>
             </ol>
           </li>
+          <li>
+            <span>3.Refunds:</span> Once we receive and inspect the returned
+            items, we will process your refund within [number of days] days.
+            Refunds will be issued to the original payment method used for the
+            purchase. Please note that shipping fees are non-refundable.
+          </li>
+          <li>
+            <span>4.Exchanges:</span> If you received a damaged or defective
+            item, please contact us within 7 days of receiving the order. We
+            will arrange for a replacement to be shipped to you at no additional
+            cost. In the case of an exchange, the damaged item must be returned
+            to us following the same process as outlined in the return process.
+          </li>
+          <li>
+            {" "}
+            <span>5.Non-Returnable Items:</span> Customized or personalized
+            items, as well as clearance or final sale items, are not eligible
+            for return or exchange unless they are damaged or defective upon
+            arrival.
+          </li>
+          <li>
+            <span>6.Damaged or Defective Items:</span> If you receive a damaged
+            or defective item, please contact us with photos of the item and its
+            packaging within 7 days of receiving the order. We will work with
+            you to resolve the issue promptly.
+          </li>
         </ol>
       </div>
+      <p>
+        Please note that this policy is subject to change without prior notice.
+        For the most up-to-date information, please refer to our website or
+        contact our customer support team. We value your satisfaction and aim to
+        provide the best possible shopping experience.
+      </p>
     </div>
   );
 };
