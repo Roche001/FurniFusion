@@ -18,6 +18,7 @@ import Newarrivals from "./components/newarrivals/Newarrivals";
 import Outdoor from "./components/outdoor/Outdoor";
 import Salesclearance from "./components/salesclearance/Salesclearance";
 import Shipping from "./components/shipping/Shipping";
+import Terms from "./components/terms/Terms";
 import Footer from "./components/footer/Footer";
 const App = () => {
   return (
@@ -40,6 +41,7 @@ const App = () => {
         <Route Cart path="Salesclearance" exact element={<Salesclearance />} />
         <Route Cart path="Cart" exact element={<Cart />} />
         <Route Shipping path="Shipping" exact element={<Shipping />} />
+        <Route Terms path="Terms" exact element={<Terms />} />
       </Routes>
       <Footer />
     </Router>
