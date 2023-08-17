@@ -1,0 +1,13 @@
+.faq-container {
+  margin-top: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  margin-top: 4.5rem;
+  width: 80dvw;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.2rem;
+}
+.faq-container h4 {
+  text-align: center;
+}

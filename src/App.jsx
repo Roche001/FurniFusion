@@ -20,6 +20,7 @@ import Salesclearance from "./components/salesclearance/Salesclearance";
 import Shipping from "./components/shipping/Shipping";
 import Terms from "./components/terms/Terms";
 import Policy from "./components/policy/Policy";
+import FAQ from "./components/faq/FAQ";
 import Footer from "./components/footer/Footer";
 const App = () => {
   return (
@@ -44,6 +45,7 @@ const App = () => {
         <Route Shipping path="Shipping" exact element={<Shipping />} />
         <Route Terms path="Terms" exact element={<Terms />} />
         <Route Policy path="Policy" exact element={<Policy />} />
+        <Route FAQ path="FAQ" exact element={<FAQ />} />
       </Routes>
       <Footer />
     </Router>
