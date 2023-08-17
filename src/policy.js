@@ -134,7 +134,7 @@ export const faq = [
   },
   {
     title: "10. How can I contact customer support?",
-    sub: "You can reach our customer support team by [email/phone/live chat] during our business hours. Visit the Contact Us page for more details.",
+    sub: "You can reach our customer support team through  [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758] during our business hours. Visit the Contact Us page for more details.",
   },
   {
     title: "1. Are your products environmentally friendly?",

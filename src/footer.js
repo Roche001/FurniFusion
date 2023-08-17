@@ -21,8 +21,8 @@ export const support = [
   { title: "F.A.Qs", titleLink: "/FAQ" },
 ];
 export const about = [
-  { title: "New products", titleLink: "/NewProducts" },
-  { title: "Specials", titleLink: "/Specials" },
+  { title: "New products", titleLink: "/NewArrivals" },
+  { title: "Specials", titleLink: "/NewArrivals" },
   {
     title: "Best sellers",
     titleLink: "/Best",
