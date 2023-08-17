@@ -28,9 +28,38 @@ const Shipping = () => {
             purchase.
           </li>
           <li>
-            <span>4.Shipping Destinations:</span> We currently offer shipping
-            within [Homa-Bay, Kisumu, Kisii, ]. If your location is not listed,
-            please contact our customer support for assistance.
+            <span>4.Shipping Destinations:</span> We currently offer shipping to
+            towns within Kenya. If your location is not listed, please contact
+            our customer support for assistance.
+          </li>
+          <li>
+            <span>5.Delivery Issues:</span> While we strive to deliver your
+            order in a timely manner, please note that unforeseen circumstances
+            such as weather, transportation delays, or other external factors
+            may impact delivery times. We appreciate your understanding in such
+            situations.
+          </li>
+        </ol>
+      </div>
+      <div className="returns">
+        <h5>Returns and Exchanges:</h5>
+        <ol>
+          <li>
+            <span>1.30-Day Return Policy:</span> We want you to be completely
+            satisfied with your purchase. If you are not happy with your order,
+            you can initiate a return within 30 days from the date of delivery.
+            To be eligible for a return, items must be unused, in their original
+            packaging, and in the same condition as received.
+          </li>
+          <li>
+            <span>2.Return Process:</span>
+            <ol className="order-two">
+              <li>
+                Contact our customer support team to initiate a return request.
+                Provide your order number and details about the items you wish
+                to return.
+              </li>
+            </ol>
           </li>
         </ol>
       </div>
