@@ -40,3 +40,6 @@
 ol.a {
   list-style-type: circle;
 }
+ol {
+  line-height: 2rem;
+}

@@ -53,7 +53,7 @@ const Shipping = () => {
           </li>
           <li>
             <span>2.Return Process:</span>
-            <ol className="a">
+            <ol>
               <li>
                 (a) Contact our customer support team to initiate a return
                 request. Provide your order number and details about the items
@@ -69,7 +69,7 @@ const Shipping = () => {
                 authorization on the package.
               </li>
               <li>
-                Ship the package to the provided return address using a
+                (d) Ship the package to the provided return address using a
                 trackable shipping method. Return shipping costs are the
                 responsibility of the customer.
               </li>
