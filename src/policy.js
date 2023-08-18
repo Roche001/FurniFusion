@@ -92,7 +92,7 @@ export const pol = [
   },
   {
     title: "9. Contact Us:",
-    sub: "If you have any questions or concerns about this Privacy Policy, please contact us at [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758]..",
+    sub: "If you have any questions or concerns about this Privacy Policy, please contact us at [sycamoredesigns@gmail.com/(+254) 756456789,(+254) 798264758].",
   },
 ];
 export const faq = [
@@ -143,5 +143,56 @@ export const faq = [
   {
     title: "12. Can I request fabric swatches before making a purchase?",
     sub: "Yes, we offer fabric swatches for many of our upholstery items. Look for the option to request swatches on the product page or contact our customer support to inquire.",
+  },
+];
+export const info = [
+  {
+    title: "1.Processing Time:",
+    sub: "a. Orders are typically processed and shipped within 2-3 business days from the date of purchase. During peak seasons or holidays, processing times may be extended. We will notify you if there are any delays in processing your order.",
+  },
+  {
+    title: "2.Shipping Methods: ",
+    sub: "a. We offer standard shipping for all orders. Expedited shipping options may be available for an additional fee. Shipping times vary based on your location and the chosen shipping method. Once your order is shipped, you will receive a confirmation email with tracking information.",
+  },
+  {
+    title: "3.Shipping Rates:",
+    sub: "a. Shipping rates are calculated based on the size and weight of your order, as well as your location. You can view the shipping costs at checkout before finalizing your purchase. ",
+  },
+  {
+    title: "4.Shipping Destinations:",
+    sub: "a. We currently offer shipping to towns within Kenya. If your location is not listed, please contact our customer support for assistance. ",
+  },
+  {
+    title: "5.Delivery Issues: ",
+    sub: "a. While we strive to deliver your order in a timely manner, please note that unforeseen circumstances such as weather, transportation delays, or other external factors may impact delivery times. We appreciate your understanding in such situations. ",
+  },
+];
+export const ret = [
+  {
+    title: "1.30-Day Return Policy: ",
+    sub: "(a) We want you to be completely satisfied with your purchase. If you are not happy with your order, you can initiate a return within 30 days from the date of delivery. To be eligible for a return, items must be unused, in their original packaging, and in the same condition as received.",
+  },
+  {
+    title: "2.Return Process:",
+    sub: "(a) Contact our customer support team to initiate a return request. Provide your order number and details about the items you wish to return. ",
+    sub1: "(b) Our team will provide you with a return authorization and instructions on how to proceed.",
+    sub2: "(c) Pack the items securely in the original packaging, including all accessories and documentation. Clearly mark the return authorization on the package.",
+    sub3: "(d) Ship the package to the provided return address using a trackable shipping method. Return shipping costs are the responsibility of the customer.",
+  },
+  {
+    title: "3.Refunds:",
+    sub: "(a) Once we receive and inspect the returned items, we will process your refund within [number of days] days. Refunds will be issued to the original payment method used for the purchase. Please note that shipping fees are non-refundable. ",
+  },
+  {
+    title: "4.Exchanges: ",
+    sub: "(a) If you received a damaged or defective item, please contact us within 7 days of receiving the order. We will arrange for a replacement to be shipped to you at no additional cost. In the case of an exchange, the damaged item must be returned to us following the same process as outlined in the return process. ",
+  },
+  {
+    title: "5.Non-Returnable Items:",
+    sub: "(a) Customized or personalized items, as well as clearance or final sale items, are not eligible for return or exchange unless they are damaged or defective upon arrival.",
+  },
+  {
+    title: "6.Damaged or Defective Items:",
+    sub: "(a) If you receive a damaged or defective item, please contact us with photos of the item and its packaging within 7 days of receiving the order. We will work with you to resolve the issue promptly. ",
   },
 ];

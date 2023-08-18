@@ -5,9 +5,7 @@ import { ship } from "../../policy";
 const Terms = () => {
   return (
     <div className="terms-container">
-      <h4>
-        Terms & Conditions - <span>Sycamore Designs </span>
-      </h4>
+      <h4>Terms & Conditions</h4>
       <h6>
         Welcome to <span>Sycamore Designs </span>. These Terms and Conditions
         outline the terms of use and purchase on our platform. By accessing,
@@ -18,7 +16,7 @@ const Terms = () => {
         {ship.map((item, index) => {
           return (
             <div key={index} className="terms-sub">
-              <h4>{item.title}</h4>
+              <h6>{item.title}</h6>
               <p>{item.sub}</p>
               <p>{item.sub2}</p>
             </div>

@@ -15,7 +15,7 @@ const Policy = () => {
       {pol.map((item, index) => {
         return (
           <div key={index} className="pol-sub">
-            <h4>{item.title}</h4>
+            <h6>{item.title}</h6>
             <p>{item.sub}</p>
             <p>{item.sub2}</p>
             <p>{item.sub3}</p>

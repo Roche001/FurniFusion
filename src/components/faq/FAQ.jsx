@@ -15,7 +15,7 @@ const FAQ = () => {
       {faq.map((item, index) => {
         return (
           <div key={index} className="faqs">
-            <h4>{item.title}</h4>
+            <h6>{item.title}</h6>
             <p>{item.sub}</p>
           </div>
         );

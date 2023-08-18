@@ -6,11 +6,12 @@
   width: 80dvw;
   margin-left: auto;
   margin-right: auto;
-  line-height: 1.5rem;
 }
 .faq-container h4 {
   text-align: center;
+  font-weight: 900;
 }
-.faqs h4 {
+.faqs h6 {
   text-align: start;
+  font-weight: 700;
 }
